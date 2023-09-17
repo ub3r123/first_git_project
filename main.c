@@ -44,6 +44,7 @@ int main() {
 //
 //    fp= fopen("file.txt","w");
     int x,y,z;
+    ull owowowow;
     int a, b;
     printf("Enter size\n");
     printf("Height:");
